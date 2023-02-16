@@ -1,7 +1,7 @@
 # edit-history
 ![npm](https://img.shields.io/npm/v/edit-history?label=version) ![NPM](https://img.shields.io/npm/l/edit-history) ![npm bundle size](https://img.shields.io/bundlephobia/min/edit-history)
 
-A fixed-size auto-overwriting stack implementation.
+Manage your undo/redo operations with ease!
 
 ## Highlights
 * Supports TypeScript!
