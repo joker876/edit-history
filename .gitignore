@@ -9,9 +9,4 @@ package-lock.json
 PLAYGROUND
 
 # dist files
-dist/index.js
-dist/objects.js
-dist/transform.js
-dist/detect.js
-dist/*.ts
-dist/*.spec.js
+dist

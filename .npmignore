@@ -11,4 +11,5 @@ examples
 *config.*
 
 # Ignore .min files
+dist/browser
 *.min.*
